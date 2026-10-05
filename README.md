@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **kicadmium has moved** to [`meawoppl/agent-portal-plugins/kicadmium`](https://github.com/meawoppl/agent-portal-plugins/tree/main/kicadmium), with its full history and open issues. This repository is archived and read-only.
+>
+> ```sh
+> agent-portal plugin install github:meawoppl/agent-portal-plugins//kicadmium
+> ```
+
 # kicadmium
 
 > The heavy metal your PCBs were missing.
